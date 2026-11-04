@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# DANE ENTIC Hogares 2024: el CSV pesa 110 MB (GitHub admite hasta 100 MB)
+# y la ficha no declara licencia abierta. Se descarga siguiendo data/raw/README.md
+data/raw/dane/
+
+# Respuestas de la encuesta propia: no se publican hasta revisar anonimización
+data/raw/encuesta/
