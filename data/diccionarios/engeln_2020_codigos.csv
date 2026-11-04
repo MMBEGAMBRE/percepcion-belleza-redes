@@ -1,0 +1,342 @@
+variable,etiqueta_variable,codigo,etiqueta_valor
+Condition,Condition,1.0,Browsed Facebook
+Condition,Condition,2.0,Browsed Instagram
+Condition,Condition,3.0,Played Bejeweled
+NA1, . - Afraid,1.0,very slightly or not at all
+NA1, . - Afraid,2.0,a little
+NA1, . - Afraid,3.0,moderately
+NA1, . - Afraid,4.0,quite a bit
+NA1, . - Afraid,5.0,extremely
+PA1, . - Active,1.0,very slightly or not at all
+PA1, . - Active,2.0,a little
+PA1, . - Active,3.0,moderately
+PA1, . - Active,4.0,quite a bit
+PA1, . - Active,5.0,extremely
+NA2, . - Nervous,1.0,very slightly or not at all
+NA2, . - Nervous,2.0,a little
+NA2, . - Nervous,3.0,moderately
+NA2, . - Nervous,4.0,quite a bit
+NA2, . - Nervous,5.0,extremely
+PA2, . - Attentive,1.0,very slightly or not at all
+PA2, . - Attentive,2.0,a little
+PA2, . - Attentive,3.0,moderately
+PA2, . - Attentive,4.0,quite a bit
+PA2, . - Attentive,5.0,extremely
+NA3, . - Scared,1.0,very slightly or not at all
+NA3, . - Scared,2.0,a little
+NA3, . - Scared,3.0,moderately
+NA3, . - Scared,4.0,quite a bit
+NA3, . - Scared,5.0,extremely
+PA3, . - Excited,1.0,very slightly or not at all
+PA3, . - Excited,2.0,a little
+PA3, . - Excited,3.0,moderately
+PA3, . - Excited,4.0,quite a bit
+PA3, . - Excited,5.0,extremely
+NA4, . - Jittery,1.0,very slightly or not at all
+NA4, . - Jittery,2.0,a little
+NA4, . - Jittery,3.0,moderately
+NA4, . - Jittery,4.0,quite a bit
+NA4, . - Jittery,5.0,extremely
+PA4, . - Interested,1.0,very slightly or not at all
+PA4, . - Interested,2.0,a little
+PA4, . - Interested,3.0,moderately
+PA4, . - Interested,4.0,quite a bit
+PA4, . - Interested,5.0,extremely
+PA5, . - Enthusiastic,1.0,very slightly or not at all
+PA5, . - Enthusiastic,2.0,a little
+PA5, . - Enthusiastic,3.0,moderately
+PA5, . - Enthusiastic,4.0,quite a bit
+PA5, . - Enthusiastic,5.0,extremely
+NA5, . - Guilty,1.0,very slightly or not at all
+NA5, . - Guilty,2.0,a little
+NA5, . - Guilty,3.0,moderately
+NA5, . - Guilty,4.0,quite a bit
+NA5, . - Guilty,5.0,extremely
+NA6, . - Ashamed,1.0,very slightly or not at all
+NA6, . - Ashamed,2.0,a little
+NA6, . - Ashamed,3.0,moderately
+NA6, . - Ashamed,4.0,quite a bit
+NA6, . - Ashamed,5.0,extremely
+PA6, . - Strong,1.0,very slightly or not at all
+PA6, . - Strong,2.0,a little
+PA6, . - Strong,3.0,moderately
+PA6, . - Strong,4.0,quite a bit
+PA6, . - Strong,5.0,extremely
+NA7, . - Distressed,1.0,very slightly or not at all
+NA7, . - Distressed,2.0,a little
+NA7, . - Distressed,3.0,moderately
+NA7, . - Distressed,4.0,quite a bit
+NA7, . - Distressed,5.0,extremely
+PA7, . - Determined,1.0,very slightly or not at all
+PA7, . - Determined,2.0,a little
+PA7, . - Determined,3.0,moderately
+PA7, . - Determined,4.0,quite a bit
+PA7, . - Determined,5.0,extremely
+NA8, . - Hostile,1.0,very slightly or not at all
+NA8, . - Hostile,2.0,a little
+NA8, . - Hostile,3.0,moderately
+NA8, . - Hostile,4.0,quite a bit
+NA8, . - Hostile,5.0,extremely
+PA8, . - Alert,1.0,very slightly or not at all
+PA8, . - Alert,2.0,a little
+PA8, . - Alert,3.0,moderately
+PA8, . - Alert,4.0,quite a bit
+PA8, . - Alert,5.0,extremely
+PA9, . - Inspired,1.0,very slightly or not at all
+PA9, . - Inspired,2.0,a little
+PA9, . - Inspired,3.0,moderately
+PA9, . - Inspired,4.0,quite a bit
+PA9, . - Inspired,5.0,extremely
+NA9, . - Iritable,1.0,very slightly or not at all
+NA9, . - Iritable,2.0,a little
+NA9, . - Iritable,3.0,moderately
+NA9, . - Iritable,4.0,quite a bit
+NA9, . - Iritable,5.0,extremely
+PA10, . - Proud,1.0,very slightly or not at all
+PA10, . - Proud,2.0,a little
+PA10, . - Proud,3.0,moderately
+PA10, . - Proud,4.0,quite a bit
+PA10, . - Proud,5.0,extremely
+NA10, . - Upset,1.0,very slightly or not at all
+NA10, . - Upset,2.0,a little
+NA10, . - Upset,3.0,moderately
+NA10, . - Upset,4.0,quite a bit
+NA10, . - Upset,5.0,extremely
+BISS1pre,,1.0,Extremely dissatisfied with my physical appearance
+BISS1pre,,2.0,Mostly dissatisfied with my physical appearance
+BISS1pre,,3.0,Moderately dissatisfied with my physical appearance
+BISS1pre,,4.0,Slightly dissatisfied with my physical appearance
+BISS1pre,,5.0,Neither dissatisfied nor satisfied with my physical appearance
+BISS1pre,,6.0,Slightly satisfied with my physical appearance
+BISS1pre,,7.0,Moderately satisfied with my physical appearance
+BISS1pre,,8.0,Mostly satisfied with my physical appearance
+BISS1pre,,9.0,Extremely satisfied with my physical appearance
+BISS2pre,,1.0,Extremely satisfied with my body size and shape
+BISS2pre,,2.0,Mostly satisfied with my body size and shape
+BISS2pre,,3.0,Moderately satisfied with my body size and shape
+BISS2pre,,4.0,Slightly satisfied with my body size and shape
+BISS2pre,,5.0,Neither dissatisfied nor satisfied with my body size and shape
+BISS2pre,,6.0,Slightly dissatisfied with my body size and shape
+BISS2pre,,7.0,Moderately dissatisfied with my body size and shape
+BISS2pre,,8.0,Mostly dissatisfied with my body size and shape
+BISS2pre,,9.0,Extremely dissatisfied with my body size and shape
+BISS3pre,,1.0,Extremely dissatisfied with my weight
+BISS3pre,,2.0,Mostly dissatisfied with my weight
+BISS3pre,,3.0,Moderately dissatisfied with my weight
+BISS3pre,,4.0,Slightly dissatisfied with my weight
+BISS3pre,,5.0,Neither dissatisfied nor satisfied with my weight
+BISS3pre,,6.0,Slightly satisfied with my weight
+BISS3pre,,7.0,Moderately satisfied with my weight
+BISS3pre,,8.0,Mostly satisfied with my weight
+BISS3pre,,9.0,Extremely satisfied with my weight
+BISS4pre,,1.0,Extremely physically attractive
+BISS4pre,,2.0,Very physically attractive
+BISS4pre,,3.0,Moderately physically attractive
+BISS4pre,,4.0,Moderately physically unattractive
+BISS4pre,,5.0,Slightly physically attractive
+BISS4pre,,6.0,Neither attractive nor unattractive
+BISS4pre,,7.0,Slightly physically unattractive
+BISS4pre,,8.0,Very physically unattractive
+BISS4pre,,9.0,Extremely physically unattractive
+BISS5pre,,1.0,A great deal worse about my looks than I usually feel
+BISS5pre,,2.0,Much worse about my looks than I usually feel
+BISS5pre,,3.0,About the same about my looks as usual
+BISS5pre,,4.0,Somewhat worse about my looks than I usually feel
+BISS5pre,,5.0,Just slightly worse about my looks than I usually feel
+BISS5pre,,6.0,Just slightly better about my looks than I usually feel
+BISS5pre,,7.0,Somewhat better about my looks than I usually feel
+BISS5pre,,8.0,Much better about my looks than I usually feel
+BISS5pre,,9.0,A great deal better about my looks than I usually feel
+BISS6pre,,1.0,A great deal better than the average person looks
+BISS6pre,,2.0,Much better than the average person looks
+BISS6pre,,3.0,Somewhat better than the average person looks
+BISS6pre,,4.0,Just slightly better than the average person looks
+BISS6pre,,5.0,About the same as the average person looks
+BISS6pre,,6.0,Just slightly worse than the average person looks
+BISS6pre,,7.0,Somewhat worse than the average person looks
+BISS6pre,,8.0,Much worse than the average person looks
+BISS6pre,,9.0,A great deal worse than the average person looks
+NA1post, . - Afraid,1.0,very slightly or not at all
+NA1post, . - Afraid,2.0,a little
+NA1post, . - Afraid,3.0,moderately
+NA1post, . - Afraid,4.0,quite a bit
+NA1post, . - Afraid,5.0,extremely
+PA1post, . - Active,1.0,very slightly or not at all
+PA1post, . - Active,2.0,a little
+PA1post, . - Active,3.0,moderately
+PA1post, . - Active,4.0,quite a bit
+PA1post, . - Active,5.0,extremely
+NA2post, . - Nervous,1.0,very slightly or not at all
+NA2post, . - Nervous,2.0,a little
+NA2post, . - Nervous,3.0,moderately
+NA2post, . - Nervous,4.0,quite a bit
+NA2post, . - Nervous,5.0,extremely
+PA2post, . - Attentive,1.0,very slightly or not at all
+PA2post, . - Attentive,2.0,a little
+PA2post, . - Attentive,3.0,moderately
+PA2post, . - Attentive,4.0,quite a bit
+PA2post, . - Attentive,5.0,extremely
+NA3post, . - Scared,1.0,very slightly or not at all
+NA3post, . - Scared,2.0,a little
+NA3post, . - Scared,3.0,moderately
+NA3post, . - Scared,4.0,quite a bit
+NA3post, . - Scared,5.0,extremely
+PA3post, . - Excited,1.0,very slightly or not at all
+PA3post, . - Excited,2.0,a little
+PA3post, . - Excited,3.0,moderately
+PA3post, . - Excited,4.0,quite a bit
+PA3post, . - Excited,5.0,extremely
+NA4post, . - Jittery,1.0,very slightly or not at all
+NA4post, . - Jittery,2.0,a little
+NA4post, . - Jittery,3.0,moderately
+NA4post, . - Jittery,4.0,quite a bit
+NA4post, . - Jittery,5.0,extremely
+PA4post, . - Interested,1.0,very slightly or not at all
+PA4post, . - Interested,2.0,a little
+PA4post, . - Interested,3.0,moderately
+PA4post, . - Interested,4.0,quite a bit
+PA4post, . - Interested,5.0,extremely
+PA5post, . - Enthusiastic,1.0,very slightly or not at all
+PA5post, . - Enthusiastic,2.0,a little
+PA5post, . - Enthusiastic,3.0,moderately
+PA5post, . - Enthusiastic,4.0,quite a bit
+PA5post, . - Enthusiastic,5.0,extremely
+NA5post, . - Guilty,1.0,very slightly or not at all
+NA5post, . - Guilty,2.0,a little
+NA5post, . - Guilty,3.0,moderately
+NA5post, . - Guilty,4.0,quite a bit
+NA5post, . - Guilty,5.0,extremely
+NA6post, . - Ashamed,1.0,very slightly or not at all
+NA6post, . - Ashamed,2.0,a little
+NA6post, . - Ashamed,3.0,moderately
+NA6post, . - Ashamed,4.0,quite a bit
+NA6post, . - Ashamed,5.0,extremely
+PA6post, . - Strong,1.0,very slightly or not at all
+PA6post, . - Strong,2.0,a little
+PA6post, . - Strong,3.0,moderately
+PA6post, . - Strong,4.0,quite a bit
+PA6post, . - Strong,5.0,extremely
+NA7post, . - Distressed,1.0,very slightly or not at all
+NA7post, . - Distressed,2.0,a little
+NA7post, . - Distressed,3.0,moderately
+NA7post, . - Distressed,4.0,quite a bit
+NA7post, . - Distressed,5.0,extremely
+PA7post, . - Determined,1.0,very slightly or not at all
+PA7post, . - Determined,2.0,a little
+PA7post, . - Determined,3.0,moderately
+PA7post, . - Determined,4.0,quite a bit
+PA7post, . - Determined,5.0,extremely
+NA8post, . - Hostile,1.0,very slightly or not at all
+NA8post, . - Hostile,2.0,a little
+NA8post, . - Hostile,3.0,moderately
+NA8post, . - Hostile,4.0,quite a bit
+NA8post, . - Hostile,5.0,extremely
+PA8post, . - Alert,1.0,very slightly or not at all
+PA8post, . - Alert,2.0,a little
+PA8post, . - Alert,3.0,moderately
+PA8post, . - Alert,4.0,quite a bit
+PA8post, . - Alert,5.0,extremely
+PA9post, . - Inspired,1.0,very slightly or not at all
+PA9post, . - Inspired,2.0,a little
+PA9post, . - Inspired,3.0,moderately
+PA9post, . - Inspired,4.0,quite a bit
+PA9post, . - Inspired,5.0,extremely
+NA9post, . - Iritable,1.0,very slightly or not at all
+NA9post, . - Iritable,2.0,a little
+NA9post, . - Iritable,3.0,moderately
+NA9post, . - Iritable,4.0,quite a bit
+NA9post, . - Iritable,5.0,extremely
+PA10post, . - Proud,1.0,very slightly or not at all
+PA10post, . - Proud,2.0,a little
+PA10post, . - Proud,3.0,moderately
+PA10post, . - Proud,4.0,quite a bit
+PA10post, . - Proud,5.0,extremely
+NA10post, . - Upset,1.0,very slightly or not at all
+NA10post, . - Upset,2.0,a little
+NA10post, . - Upset,3.0,moderately
+NA10post, . - Upset,4.0,quite a bit
+NA10post, . - Upset,5.0,extremely
+BISS1post,Right now I feel...,1.0,Extremely dissatisfied with my physical appearance
+BISS1post,Right now I feel...,2.0,Mostly dissatisfied with my physical appearance
+BISS1post,Right now I feel...,3.0,Moderately dissatisfied with my physical appearance
+BISS1post,Right now I feel...,4.0,Slightly dissatisfied with my physical appearance
+BISS1post,Right now I feel...,5.0,Neither dissatisfied nor satisfied with my physical appearance
+BISS1post,Right now I feel...,6.0,Slightly satisfied with my physical appearance
+BISS1post,Right now I feel...,7.0,Moderately satisfied with my physical appearance
+BISS1post,Right now I feel...,8.0,Mostly satisfied with my physical appearance
+BISS1post,Right now I feel...,9.0,Extremely satisfied with my physical appearance
+BISS2post,Right now I feel...,1.0,Extremely satisfied with my body size and shape
+BISS2post,Right now I feel...,2.0,Mostly satisfied with my body size and shape
+BISS2post,Right now I feel...,3.0,Moderately satisfied with my body size and shape
+BISS2post,Right now I feel...,4.0,Slightly satisfied with my body size and shape
+BISS2post,Right now I feel...,5.0,Neither dissatisfied nor satisfied with my body size and shape
+BISS2post,Right now I feel...,6.0,Slightly dissatisfied with my body size and shape
+BISS2post,Right now I feel...,7.0,Moderately dissatisfied with my body size and shape
+BISS2post,Right now I feel...,8.0,Mostly dissatisfied with my body size and shape
+BISS2post,Right now I feel...,9.0,Extremely dissatisfied with my body size and shape
+BISS3post,Right now I feel...,1.0,Extremely dissatisfied with my weight
+BISS3post,Right now I feel...,2.0,Mostly dissatisfied with my weight
+BISS3post,Right now I feel...,3.0,Moderately dissatisfied with my weight
+BISS3post,Right now I feel...,4.0,Slightly dissatisfied with my weight
+BISS3post,Right now I feel...,5.0,Neither dissatisfied nor satisfied with my weight
+BISS3post,Right now I feel...,6.0,Slightly satisfied with my weight
+BISS3post,Right now I feel...,7.0,Moderately satisfied with my weight
+BISS3post,Right now I feel...,8.0,Mostly satisfied with my weight
+BISS3post,Right now I feel...,9.0,Extremely satisfied with my weight
+BISS4post,Right now I feel...,1.0,Extremely physically attractive
+BISS4post,Right now I feel...,2.0,Very physically attractive
+BISS4post,Right now I feel...,3.0,Moderately physically attractive
+BISS4post,Right now I feel...,4.0,Moderately physically unattractive
+BISS4post,Right now I feel...,5.0,Slightly physically attractive
+BISS4post,Right now I feel...,6.0,Neither attractive nor unattractive
+BISS4post,Right now I feel...,7.0,Slightly physically unattractive
+BISS4post,Right now I feel...,8.0,Very physically unattractive
+BISS4post,Right now I feel...,9.0,Extremely physically unattractive
+BISS5post,Right now I feel...,1.0,A great deal worse about my looks than I usually feel
+BISS5post,Right now I feel...,2.0,Much worse about my looks than I usually feel
+BISS5post,Right now I feel...,3.0,About the same about my looks as usual
+BISS5post,Right now I feel...,4.0,Somewhat worse about my looks than I usually feel
+BISS5post,Right now I feel...,5.0,Just slightly worse about my looks than I usually feel
+BISS5post,Right now I feel...,6.0,Just slightly better about my looks than I usually feel
+BISS5post,Right now I feel...,7.0,Somewhat better about my looks than I usually feel
+BISS5post,Right now I feel...,8.0,Much better about my looks than I usually feel
+BISS5post,Right now I feel...,9.0,A great deal better about my looks than I usually feel
+BISS6post,Right now I feel that I look...,1.0,A great deal better than the average person looks
+BISS6post,Right now I feel that I look...,2.0,Much better than the average person looks
+BISS6post,Right now I feel that I look...,3.0,Somewhat better than the average person looks
+BISS6post,Right now I feel that I look...,4.0,Just slightly better than the average person looks
+BISS6post,Right now I feel that I look...,5.0,About the same as the average person looks
+BISS6post,Right now I feel that I look...,6.0,Just slightly worse than the average person looks
+BISS6post,Right now I feel that I look...,7.0,Somewhat worse than the average person looks
+BISS6post,Right now I feel that I look...,8.0,Much worse than the average person looks
+BISS6post,Right now I feel that I look...,9.0,A great deal worse than the average person looks
+NegAffectPre,negative affect pre-test,,
+PosAffectPre,positive affect pre-test,,
+NegAffectPost,negative affect post-test,,
+PosAffectPost,positive affect post-test,,
+BISSTotalPre,biss pre-test,,
+BISSTotalPost,biss post-test,,
+imagepeople,percent time looking at images of people,,
+imageobject,percent time looking at images not featuring people,,
+reading,percent time reading or commenting,,
+videopeople,percent time looking at videos of people,,
+videoobject,percent time looking at videos of objects,,
+other,percent time doing something else,,
+appearancethoughts,appearance thoughts during task,1.0,no thought about my appearance
+appearancethoughts,appearance thoughts during task,7.0,a lot of thought about my appearance
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,1.0,1. No comparison
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,2.0,2.
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,3.0,3.
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,4.0,4.
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,5.0,5.
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,6.0,6.
+overallappcompduringtask,How much did you compare your overall appearance to people you saw on Instagram/Facebook?,7.0,7. A lot of comparison
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,1.0,1. No comparison
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,2.0,2.
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,3.0,3.
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,4.0,4.
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,5.0,5.
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,6.0,6.
+specbodypartcompduringtask,How much did you compare specific body parts to people you saw on Instagram/Facebook?,7.0,7. A lot of comparison
+comparisonsduringtask,total score for comparisons during task,,
+Age,Please enter your age,,
