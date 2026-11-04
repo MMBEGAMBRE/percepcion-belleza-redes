@@ -116,3 +116,4 @@ Se siguió la metodología de la Guía 4 (*Explorando Instacart*): **código →
 | v0.6 | Carga e inspección estructural |
 | v0.7 | Diagnóstico de calidad |
 | v0.8 | Informe técnico y README |
+| v1.0 | Entrega de la EV06 (`develop` integrado en `main`) |
