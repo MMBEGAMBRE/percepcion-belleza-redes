@@ -1,0 +1,4 @@
+Dataset,Filas,Columnas,Tipos de datos
+Pritchard (2021),404,246,"float64: 221, str: 25"
+Engeln et al. (2020),308,70,float64: 70
+DANE ENTIC Hogares 2024,148700,377,"float64: 347, int64: 25, str: 5"
